@@ -17,5 +17,4 @@ public class PrimaryQualifierExample {
     public void disp(){
         studentService.display();
     }
-
 }
