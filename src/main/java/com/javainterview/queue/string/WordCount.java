@@ -1,4 +1,4 @@
-package com.javainterview.string;
+package com.javainterview.queue.string;
 
 import java.util.StringTokenizer;
 

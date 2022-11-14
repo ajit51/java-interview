@@ -1,4 +1,4 @@
-package com.javainterview.string;
+package com.javainterview.queue.string;
 
 public class StringExample2 {
     public static void main(String[] args) {

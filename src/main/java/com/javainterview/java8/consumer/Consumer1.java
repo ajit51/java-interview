@@ -6,6 +6,8 @@ import java.util.function.Consumer;
 
 public class Consumer1 {
     public static void main(String[] args) {
+
+        //it is used in forEach loop
         Consumer<Integer> consumer = a -> {
             System.out.println(a);
         };
